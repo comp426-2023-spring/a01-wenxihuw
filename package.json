@@ -1,6 +1,6 @@
 {
   "name": "my-own-private-web-server",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "This package contains a very simple web server that takes one argument for port and then serves any files inside the public directory.",
   "main": "server.js",
   "scripts": {
@@ -19,7 +19,7 @@
     "args",
     "http"
   ],
-  "author": "wenxihuw",
+  "author": "@wenxihuw",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/comp426-2023-spring/a01-wenxihuw/issues"
